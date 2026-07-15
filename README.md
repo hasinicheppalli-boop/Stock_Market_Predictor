@@ -4,7 +4,7 @@
 Forecasting stock prices has long been a challenging task for researchers and analysts. Investors are highly interested in predicting future stock movements to make informed decisions. This project builds an **LSTM (Long Short-Term Memory) neural network** to predict stock prices based on historical data, providing supportive information about the future direction of the stock market.
 
 ## Dataset
-- Source: [Kaggle S&P 500 Stocks Dataset](https://www.kaggle.com/datasets) (or any similar dataset).
+- Source: [Kaggle S&P 500 Stocks Dataset](https://www.kaggle.com/datasets).
 - Columns used: `date`, `symbol`, `close`.
 - In this project, we focus on **Microsoft (MSFT)** because it has complete data.
 
