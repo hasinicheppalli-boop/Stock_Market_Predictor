@@ -1,0 +1,15 @@
+numpy==2.4.6
+pandas==2.0.3
+matplotlib==3.7.2
+scikit-learn==1.3.0
+tensorflow==2.21.0
+keras==3.15.0
+
+## How to Use
+Save the above text as requirements.txt in your project root.
+
+In your terminal:
+
+bash
+pip install -r requirements.txt
+This ensures anyone cloning your repo gets the same versions you’re using.
